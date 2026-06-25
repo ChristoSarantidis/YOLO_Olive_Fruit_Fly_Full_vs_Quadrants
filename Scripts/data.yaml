@@ -1,0 +1,9 @@
+train: path
+val: path
+test: path
+
+nc: 1  # Αριθμός κατηγοριών
+names: ['d']  # Ονόματα των κατηγοριών
+
+head:
+autoanchor: true
